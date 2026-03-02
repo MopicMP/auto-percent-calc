@@ -1,0 +1,5 @@
+[
+  "tests/test_auto_percent_calc.py::TestCalc::test_basic",
+  "tests/test_auto_percent_calc.py::TestCalc::test_empty",
+  "tests/test_auto_percent_calc.py::TestCalc::test_type_error"
+]
